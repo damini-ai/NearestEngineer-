@@ -1,0 +1,1 @@
+There are 2 sheets in Google sheets named Engineer and Customer containg details like Name, address, city, state and mobile no. The appscript is run to geocode for all the entries and return fulladdress, latitude and longitude. The webapp built using Flask and API fetches this data from google sheets and does geospatial visualization on India's map. 
